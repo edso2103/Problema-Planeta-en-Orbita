@@ -55,13 +55,10 @@ De lo anterior se puede afirmar que:
 * Cython se sitúa entre un lenguaje medio, ya que combina python como alto nivel y c como bajo nivel.
 * Cython permite llamar funciones directamente desde el código
 * Cython ofrece mayor rendimiento que python,debido a los ajustes y modificaciones realizados en las declaraciones, bucles, etc
-* Se presenta un tradeoff, en el que se puede obtener la velocidad de C manteniendo la simplicidad de sintaxis de python, pero a cambio se puede ver afectada la precisión del experimento.
-* Se realiza un análisis exhaustivo de los resultados obtenidos tanto en cython como en python, visualizando un mayor rendimiento en cython.
-* Se recomienda aislar la máquina para obtener resultados más precisos del rendimiento.
-* En el repositorio se encuentra el código completo para que pueda ser replicado, para futuros experimentos.
-
-
-
+* Se presenta un tradeoff, en el que se puede obtener la velocidad de C manteniendo la simplicidad de sintaxis de python, pero a cambio se puede ver afectada la precisión al buscar rendimiento.
+* Al verificar el promedio de los tiempos de ejecución para ambos lenguajes, se pudo evidenciar que cython es aproximadamente 26 veces mejor con respecto a python, en el rendimiento para este programa en específico.
+* Se observa un comportamiento inestable para los tiempos de cython, debido a que no se aisló la máquina, sin embargo, se presenta que el rendimiento mejora entre más intentos.
+* Por otra parte, este experimento se puede desarrollar con _nogil_, para liberar y potenciar el código con subprocesos múltiples, implementando _OpenMp_.
 
 # Referencias
 * colaboradores de Wikipedia. (2022, 14 octubre). Cython. Wikipedia, la enciclopedia libre. https://es.wikipedia.org/wiki/Cython 
