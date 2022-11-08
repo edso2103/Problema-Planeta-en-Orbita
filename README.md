@@ -13,10 +13,7 @@
 <br>
 </p>
 
-# Introducción
-
-Cython es lenguaje de programación que compila código en c++ o c desde python, implementando optimizaciones en comparación con python, dichos cambios que alteran el rendimiento 
-# Objetivo
+# Resumen
 El siguiente cuaderno tiene como objetivo, analizar los resultados obtenidos de la ejecución del problema "Planeta en órbita", con el fin de comprobar que cython presenta mayor rendimiento con respecto a python, debido a su combinación de lenguajes, c++, c y python.
 
 # Problema 
