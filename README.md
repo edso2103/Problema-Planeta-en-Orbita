@@ -46,9 +46,18 @@ En la siguiente figura se presenta un archivo .csv, donde la primera columna pre
 
 <p align="center"><i><b>Figura 2</i></b></p>
 
-<p align="center"> <img src="https://github.com/edso2103/Problema-Planeta-en-Orbita/blob/main/img/resultados.png" width="500"/> </p> 
+<p align="center"> <img src="https://github.com/edso2103/Problema-Planeta-en-Orbita/blob/main/img/grafica3.png" width="500"/> </p> 
 
 <p align="center"><i><b>Figura 3</i></b></p>
+
+<p align="center"> <img src="https://github.com/edso2103/Problema-Planeta-en-Orbita/blob/main/img/grafica2.png" width="500"/> </p> 
+
+<p align="center"><i><b>Figura 4</i></b></p>
+<p align="center"> <img src="https://github.com/edso2103/Problema-Planeta-en-Orbita/blob/main/img/grafica1.png" width="500"/> </p> 
+
+<p align="center"><i><b>Figura 5</i></b></p>
+
+
 
 
 # Conclusiones
