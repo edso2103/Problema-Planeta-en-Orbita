@@ -16,7 +16,7 @@
 # Problema 
 
 Para este ejercicio se plantea un programa que realiza una ecuación diferencial, a partir de diferentes datos como la posición inicial, la velocidad y la gravedad. Se pretende realizar una prueba de rendimiento en el lenguaje de programación Python y en Cython, con el fin de verificar la existencia de una posible mejora en la implementación de este programa al desarrollarse en el lenguaje de programación Cython
-<p align="center"> <img src="https://github.com/edso2103/Problema-Planeta-en-Orbita/blob/main/ejercicio.png" width="800"/> </p> 
+<p align="center"> <img src="https://github.com/edso2103/Problema-Planeta-en-Orbita/blob/main/ejercicio.png" width="500"/> </p> 
 
 <p align="center"><i><b>Figura 1</i></b></p>
 
@@ -27,3 +27,11 @@ Este proyecto cuenta con cinco archivos que corresponden a:<br>
 2. **Setup:** Para construir el programa en cython.<br>
 3. **planet_cy.pyx:** Programa en cython
 4. **planet_cy.py:** Programa en python
+
+# Resultados
+En la siguiente figura se presenta un archivo .csv, donde la primera columna presenta los valores de cython y la segunda columna con los valores de python, de manera que se obtiene que cython ofrece mayor rendimiento comparado con python.
+
+<p align="center"> <img src="https://github.com/edso2103/Problema-Planeta-en-Orbita/blob/main/ejercicio2.png" width="500"/> </p> 
+
+<p align="center"><i><b>Figura 2</i></b></p>
+
