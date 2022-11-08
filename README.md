@@ -37,7 +37,7 @@ Este proyecto cuenta con cinco archivos que corresponden a:<br>
 Es importante aclarar, que en este repositorio se encuentran dos versiones del código, el primero se encuentra en la carpeta "planet", y en la carpeta "planet_nuevo" se encuentra el código actualizado en clase, con el csv generado.
 
 # Resultados
-En la siguiente figura se presenta un archivo .csv, donde la primera columna presenta los valores de cython y la segunda columna con los valores de python, de manera que se obtiene que cython ofrece mayor rendimiento comparado con python.
+En la siguiente figura se presenta una gráfica generada a partir de un archivo .csv, donde la primera columna presenta los valores de cython y la segunda columna con los valores de python, de manera que se obtiene que cython ofrece mayor rendimiento comparado con python.
 
 <p align="center"> <img src="https://github.com/edso2103/Problema-Planeta-en-Orbita/blob/main/img/grafica1.png" width="500"/> </p> 
 
