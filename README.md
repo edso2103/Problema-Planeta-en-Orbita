@@ -46,7 +46,7 @@ En la siguiente figura se presenta un archivo .csv, donde la primera columna pre
 
 <p align="center"><i><b>Figura 2</i></b></p>
 
-Para visualizar más gráficas, dirigirse al colab (https://colab.research.google.com/drive/1DdR69P_DUUTEr8wQJor-EqIdbm3rN8Y1?usp=sharing)
+Para visualizar más gráficas, dirigirse al ([colab](https://colab.research.google.com/drive/1DdR69P_DUUTEr8wQJor-EqIdbm3rN8Y1?usp=sharing))
 
 
 
