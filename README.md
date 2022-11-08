@@ -14,6 +14,8 @@
 </p>
 
 # Problema 
+
+Para este ejercicio se plantea un programa que realiza una ecuación diferencial, a partir de diferentes datos como la posición inicial, la velocidad y la gravedad. Se pretende realizar una prueba de rendimiento en el lenguaje de programación Python y en Cython, con el fin de verificar la existencia de una posible mejora en la implementación de este programa al desarrollarse en el lenguaje de programación Cython
 <p align="center"> <img src="https://github.com/edso2103/Problema-Planeta-en-Orbita/blob/main/ejercicio.png" width="800"/> </p> 
 
 <p align="center"><i><b>Figura 1</i></b></p>
