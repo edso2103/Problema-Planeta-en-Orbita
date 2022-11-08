@@ -30,6 +30,10 @@ En la siguiente figura se presenta un archivo .csv, donde la primera columna pre
 
 <p align="center"><i><b>Figura 2</i></b></p>
 
+<p align="center"> <img src="https://github.com/edso2103/Problema-Planeta-en-Orbita/blob/main/resultados.png" width="500"/> </p> 
+
+<p align="center"><i><b>Figura 3</i></b></p>
+
 
 #Conclusiones
 
