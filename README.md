@@ -12,7 +12,9 @@
 <i><b>Fecha:</b></i>06/08/22
 <br>
 </p>
+
 # Guía para la ejecución del proyecto
+
 Este proyecto cuenta con cinco archivos que corresponden a:<br> 
 1. **Makefile:** Automatizar la ejecución de los programas <br>
 2. **Setup:** Para construir el programa en cython.<br>
