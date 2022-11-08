@@ -42,20 +42,11 @@ Es importante aclarar, que en este repositorio se encuentran dos versiones del c
 # Resultados
 En la siguiente figura se presenta un archivo .csv, donde la primera columna presenta los valores de cython y la segunda columna con los valores de python, de manera que se obtiene que cython ofrece mayor rendimiento comparado con python.
 
-<p align="center"> <img src="https://github.com/edso2103/Problema-Planeta-en-Orbita/blob/main/img/ejercicio2.png" width="500"/> </p> 
+<p align="center"> <img src="https://github.com/edso2103/Problema-Planeta-en-Orbita/blob/main/img/grafica1.png" width="500"/> </p> 
 
 <p align="center"><i><b>Figura 2</i></b></p>
 
-<p align="center"> <img src="https://github.com/edso2103/Problema-Planeta-en-Orbita/blob/main/img/grafica3.png" width="500"/> </p> 
-
-<p align="center"><i><b>Figura 3</i></b></p>
-
-<p align="center"> <img src="https://github.com/edso2103/Problema-Planeta-en-Orbita/blob/main/img/grafica2.png" width="500"/> </p> 
-
-<p align="center"><i><b>Figura 4</i></b></p>
-<p align="center"> <img src="https://github.com/edso2103/Problema-Planeta-en-Orbita/blob/main/img/grafica1.png" width="500"/> </p> 
-
-<p align="center"><i><b>Figura 5</i></b></p>
+Para visualizar más gráficas, dirigirse al colab (https://colab.research.google.com/drive/1DdR69P_DUUTEr8wQJor-EqIdbm3rN8Y1?usp=sharing)
 
 
 
