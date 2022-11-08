@@ -13,6 +13,10 @@
 <br>
 </p>
 
+# Problema 
+<p align="center"> <img src="https://github.com/edso2103/Problema-Planeta-en-Orbita/blob/main/ejercicio.png" width="800"/> </p> 
+
+<p align="center"><i><b>Figura 1</i></b></p>
 # Guía para la ejecución del proyecto
 
 Este proyecto cuenta con cinco archivos que corresponden a:<br> 
